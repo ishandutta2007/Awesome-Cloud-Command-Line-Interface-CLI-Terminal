@@ -1,6 +1,6 @@
 # Awesome-Cloud-Command-Line-Interface-CLI-Terminal
 
-# Top Cloud Command-Line Interface (CLI) Terminal Ecosystem
+## Top Cloud Command-Line Interface (CLI) Terminal Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Browser-Based Shells, Modern Terminal Emulators & Cloud-Native CLI Environments*  

@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Command-Line-Interface-CLI-Terminal?style=social)](https://github.com/ishandutta2007/Awesome-Cloud-Command-Line-Interface-CLI-Terminal/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Command-Line-Interface-CLI-Terminal?style=social)](https://github.com/ishandutta2007/Awesome-Cloud-Command-Line-Interface-CLI-Terminal/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Command-Line-Interface-CLI-Terminal?style=social)](https://github.com/ishandutta2007/Awesome-Cloud-Command-Line-Interface-CLI-Terminal/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Cloud-Command-Line-Interface-CLI-Terminal/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -67,7 +67,7 @@ The table below lists leading SaaS and managed cloud terminal solutions, sorted 
 
 The following table highlights top open-source terminal emulators, browser-based shell components, and self-hosted cloud terminal servers, sorted in descending order by GitHub stargazers. ⭐
 
-| Project | Star Badge | Description | Primary Language / Stack |
+| Project | Stars_Badge | Description | Primary Language / Stack |
 |:---|:---|:---|:---|
 | **[VS Code](https://github.com/microsoft/vscode)** | [![Stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers) | Industry-standard open-source code editor featuring a full-featured integrated terminal with WebGL acceleration. | TypeScript / Electron 💻 |
 | **[Alacritty](https://github.com/alacritty/alacritty)** | [![Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social&color=white)](https://github.com/alacritty/alacritty/stargazers) | Fast, cross-platform, GPU-accelerated terminal emulator focused on simplicity and raw performance. | Rust / OpenGL 🦀 |
